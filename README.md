@@ -36,9 +36,10 @@
 
 ---
 
-## 🖥️ Projects
+### 🖥️ Projects
 
-### <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> C# Projects
+### <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+C# Projects
 <br/>
 
 - [NETFruitMarket](https://github.com/daweekosky/NETFruitMarket)
@@ -46,19 +47,21 @@
 - [NETFizzBuzz](https://github.com/daweekosky/NETFizzBuzz)
 - [NETSimpleMVC](https://github.com/daweekosky/NETSimpleMVC)
 
-### <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" /> Python Projects
+### <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+Python Projects
 <br/>
 
 - [Python-YouTube-Downloader](https://github.com/daweekosky/Python-YouTube-Downloader)
 - [Hirsch-Counter-Python](https://github.com/daweekosky/Hirsch-Counter-Python)
 
 ### <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-   Laravel Projects
+Laravel Projects
 <br/>
 
 - [Laravel-PHP-ToDoList](https://github.com/daweekosky/Laravel-PHP-ToDoList)
 
-### <img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" /> Android Projects
+### <img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
+Android Projects
 <br/>
 
 - [Android-App-Students-Grades](https://github.com/daweekosky/Android-App-Students-Grades)
