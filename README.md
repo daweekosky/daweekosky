@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Dawid 🙋
+# Hi there 👋 I'm Dawid
 **`Software Developer🧑‍💻/Student🧑‍🎓/Gamer🎮`**
 
 🔭 I’m a student of Lublin University of Technology, young Software Developer, programming using different languages and different frameworks
